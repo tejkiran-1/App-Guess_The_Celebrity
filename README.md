@@ -5,8 +5,8 @@ It displays celebrity name along with options. We have to guess which is correct
 <hr>
 
 <p float="left">
-<img src="Screenshot_20220330_182025.png" style = "display: block; margin-left: auto; margin-right: auto; width: 25%"/>
-<img src="Screenshot_20220330_182150.png" style = "display: block; margin-left: auto; margin-right: auto; width: 25%"/>
-<img src="Screenshot_20220330_182311.png" style = "display: block; margin-left: auto; margin-right: auto; width: 25%"/>
-<img src="Screenshot_20220330_182439.png" style = "display: block; margin-left: auto; margin-right: auto; width: 25%"/>
+<img src="Screenshot_20220330_182025.png" style = "display: block; margin-left: auto; margin-right: auto; width: 21%"/>
+<img src="Screenshot_20220330_182150.png" style = "display: block; margin-left: auto; margin-right: auto; width: 21%"/>
+<img src="Screenshot_20220330_182311.png" style = "display: block; margin-left: auto; margin-right: auto; width: 21%"/>
+<img src="Screenshot_20220330_182439.png" style = "display: block; margin-left: auto; margin-right: auto; width: 21%"/>
 </p>
